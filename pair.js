@@ -57,14 +57,14 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*SUPER MD ONLINE*
+*POPKID MD ONLINE*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍𝙎』
 
-║ ❒ *Trevley* : _https://wa.me/254729980068_
+║ ❒ *POPKID* : _https://wa.me/254732297194_
 
-║ ❒ *Ibrahim Adams* : _https://wa.me/message/74F2PC4JA4F3P1_
+║ ❒ *IAN* : _https://wa.me/254111385747_
 
 ╚════════════════════❒
 
